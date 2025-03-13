@@ -5,6 +5,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laetitia-piat&label=Profile%20views&color=0e75b6&style=flat" alt="laetitia-piat" /> </p>
+
 ### 🚀 Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
