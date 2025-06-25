@@ -1,7 +1,7 @@
 <h1 align="center"># 👋 Hello, I'm Laetitia!</h1>
 
 <p align="center">💻 Passionate Developer | 🎓 Currently pursuing CDA Bac+3/4 | 🚀 Future Bac+5  </p>
-<p align="center">🌍 Based in Chartres | 🌱 Learning React, Java, Angular & more! </p>
+<p align="center">🌍 Based in Chartres | 🌱 Learning React, Python, soon Java & Angular ! </p>
 
 ---
 
