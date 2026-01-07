@@ -30,12 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=laetitia-piat&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitia-piat&layout=compact&theme=radical&cache_seconds=86400)
-
----
 
 ### 🔗 Let's Connect!
 
